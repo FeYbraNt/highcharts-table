@@ -1,0 +1,70 @@
+{
+  "markets": [
+      {
+        "mip": {
+          "id": 120,
+          "name": "TVN",
+          "code": "PL"
+        },
+        "status": "Approved",
+        "briefNetSpendInEuro": 57769.93,
+        "postNetSpendInEuro": 0,
+        "proposalSpendInEuro": 57769.93
+      },
+      {
+        "mip": {
+          "id": 122,
+          "name": "TVP",
+          "code": "PL"
+        },
+        "status": "Approved",
+        "briefNetSpendInEuro": 51171.85,
+        "postNetSpendInEuro": 5032,
+        "proposalSpendInEuro": 51171.85
+      },
+      {
+        "mip": {
+          "id": 123,
+          "name": "TV Polsat",
+          "code": "PL"
+        },
+        "status": "Approved",
+        "briefNetSpendInEuro": 56641.57,
+        "postNetSpendInEuro": 1234,
+        "proposalSpendInEuro": 56641.57
+      },
+      {
+        "mip": {
+          "id": 124,
+          "name": "Zenith",
+          "code": "TW"
+        },
+        "status": "Approved",
+        "briefNetSpendInEuro": 146766.42,
+        "postNetSpendInEuro": 1234,
+        "proposalSpendInEuro": 146766.42
+      },
+      {
+        "mip": {
+          "id": 125,
+          "name": "Active Media Praha",
+          "code": "CZ"
+        },
+        "status": "Approved",
+        "briefNetSpendInEuro": 18224.75,
+        "postNetSpendInEuro": 1234,
+        "proposalSpendInEuro": 18231.12
+      },
+      {
+        "mip": {
+          "id": 126,
+          "name": "Reichl und Partner GmbH",
+          "code": "AT"
+        },
+        "status": "Draft",
+        "briefNetSpendInEuro": 93000,
+        "postNetSpendInEuro": 1234,
+        "proposalSpendInEuro": 0
+      }
+  ]
+}
